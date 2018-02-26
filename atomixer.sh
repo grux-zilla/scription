@@ -44,7 +44,7 @@ dpkg -i discord-0.0.2.deb
 
 #screen recorder
 
-add-apt-repository ppa:mhsabbagh/greenproject
+sudo apt-get install obs-studio
 
 #Cubic ISO Editor
 
@@ -53,14 +53,6 @@ add-apt-repository ppa:cubic-wizard/release
 #Google drive ppa
 
 add-apt-repository ppa:alessandro-strada/ppa
-
-#screen recorder
-
-
-#google drive stuff
-
-add-apt-repository ppa:alessandro-strada/ppa
-
 
 #lets get sources updated so we can do stuff with these repos
 
