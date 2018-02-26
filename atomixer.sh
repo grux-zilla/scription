@@ -56,7 +56,6 @@ add-apt-repository ppa:alessandro-strada/ppa
 
 #screen recorder
 
-add-apt-repository ppa:mhsabbagh/greenproject
 
 #google drive stuff
 
@@ -109,4 +108,3 @@ cd install-gnome-themes
 ./install-gnome-themes
 
 reboot
-
