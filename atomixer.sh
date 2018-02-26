@@ -7,8 +7,7 @@
 apt update && apt upgrade -y
 
 #need some HWE goodness for 16.04 installs
-
-sudo apt-get install --install-recommends linux-generic-hwe-16.04 xserver-xorg-hwe-16.04
+apt-get install --install-recommends linux-generic-hwe-16.04 xserver-xorg-hwe-16.04
 
 #now that we have an updated system, we need a few essential packages to build our system
 
